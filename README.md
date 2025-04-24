@@ -16,7 +16,7 @@ Before using the script, you’ll need:
 
 **Script**
 1. Fill the info in the reddit-deleter.py
-2. Run the script in terminal ```python reddit-deleter.py```
+2. Run the script in terminal ```python reddit_deleter.py```
 
 The script will then delete posts while showing you the information. After deleting the posts, it will delete comments.
 
