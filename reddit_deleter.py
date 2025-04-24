@@ -1,7 +1,7 @@
 import praw
 import time
 
-# Stores credentials
+# Stores credentials - FILL WITH YOUR OWN INFO
 client_id = 'CLIENT_ID'
 client_secret = 'CLIENT_SECRET'
 username = 'USERNAME'
